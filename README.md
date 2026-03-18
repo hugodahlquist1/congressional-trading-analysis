@@ -32,7 +32,6 @@ This repository contains a sophisticated data science pipeline designed to analy
 ---
 
 ## 📊 Visualizations
-*(Tips: Ta en skärmdump på din snyggaste graf från notebooken och lägg in den här!)*
 ![Analysis Chart](<img width="838" height="477" alt="Skärmavbild 2026-03-18 kl  11 18 26" src="https://github.com/user-attachments/assets/0a7f86b3-dbf9-4171-8cd6-ea914c831e95" />)
 
 ---
